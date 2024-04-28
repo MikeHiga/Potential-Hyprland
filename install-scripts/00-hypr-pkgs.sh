@@ -22,8 +22,7 @@ hyprlock
 imagemagick 
 jq
 kitty
-kvantum
-nano  
+kvantum 
 network-manager-applet 
 pamixer 
 pavucontrol
@@ -62,7 +61,7 @@ mpv-mpris
 nvtop
 nwg-look-bin
 pacman-contrib
-vim
+neovim
 yt-dlp
 )
 

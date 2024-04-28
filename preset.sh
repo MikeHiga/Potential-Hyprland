@@ -23,7 +23,7 @@ sddm="N"
 ###-Install XDG-DESKTOP-PORTAL-HYPRLAND? (For proper Screen Share ie OBS)
 xdph="Y"
 ###-Install zsh, oh-my-zsh & (Optional) pokemon-colorscripts?
-zsh="Y"
+zsh="N"
 ###-Installing in a Asus ROG Laptops?
 rog="N"
 ###-Do you want to download pre-configured Hyprland dotfiles?
